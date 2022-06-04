@@ -1,0 +1,2631 @@
+<?xml version="1.0" encoding="utf-16"?>
+<yaml xmlns:yamlconv="yamlconv" yamlconv:endianness="little" yamlconv:offsetCount="3" yamlconv:byamlVersion="2" DayChangeRetryLimitSec="60" DayChangeRetryWaitAddSec="10" FesSameTeamMatchWaitTime="27" FestivalId="1020" RequiredBattleTimes="69" SpecialStage="-1" StartDelayTimeMax="300" Version="26" VoteAnimType="0" VoteTextType="0" WeightTenMatchRate="0.1f" WinBonusPoint="1000" WinnerCacheMinutes="10" WinnerMyselfCacheMinutes="15">
+  <News type="array">
+    <value>
+      <EUde type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Das ultimativ beste Thema
+aller Zeiten überhaupt!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Die Stunde der Wahrheit!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Mal ehrlich... Da gibt's nur
+eine richtige Wahl.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Unbeschwert, heiter...
+Das bin ich!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Bitte lasst nicht zu, dass
+ihr Ego weiter anschwillt!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Greeting</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Gelassen, gefasst und
+gewitzt  Ewählt Limone!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Jetzt ist es also so weit...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Team Aioli wird bei diesem
+Splatfest übelst abfeiern!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">„Übelst abfeiern E Da wird
+einem ja echt übel.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Die beste Medizin: Für
+Team Limone stimmen!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Stimmen einzusacken ist
+nur der halbe Kampf!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Die andere Hälfte des
+Kampfes ist... Kampf!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Und was denken unsere
+Zuschauer? Stimmt ab!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Wer abstimmt, kriegt ein
+Splatfest-Shirt!</Text>
+        </value>
+      </EUde>
+      <EUen type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">They finally did it... The
+ultimate Splatfest theme!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Oh, it''s sooooo on!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Guys, you know there's
+only one real choice here.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Happy-go-lucky, carefree...
+Callie! That's me!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Guys, you don't want to
+swell her head any more!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Greeting</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Pick me! Cool, calm and
+collected - vote Marie!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">So it's finally come down
+to this.</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Sorry, but Team Callie are
+about to BRING THE PAIN!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">You'll 'bring the pain'? Did
+you seriously say that?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">This is why people are
+gonna vote Team Marie!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Well getting votes is only
+half the battle!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">The other half of the
+battle is...battling!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">So, who will it be?
+Be sure to cast your vote!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">After you've voted, you'll
+get a Splatfest Tee!</Text>
+        </value>
+      </EUen>
+      <EUes type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Tenía que pasar... ¡Llega la
+madre de todos los temas!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">¿Madre...? Madre...
+¡Madre mía! ¿Va en serio?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Sí, pero no habrá discusión.
+La gente me adora a mí.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Mar: una chica espontánea
+y divertida. ¡Esa soy yo!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Creo que vas demasiado
+sobrada. ¡Me votarán a mí!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Greeting</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Calmada, seria y fiable.
+Así es vuestra amiga Tina.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Por fin el duelo que todos
+estábamos esperando.</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Ya es hora de demostrar
+que mi equipo es el mejor.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Espero que no lo estés
+diciendo en serio...</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">La gente con buen criterio
+me votará a mí, sin duda.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">De todas formas, ¡no solo
+cuentan los votos!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Lo más importante es...
+¡hacerlo bien en combate!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Ahora os toca uniros a uno
+de los dos bandos.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Elegid una opción y llevaos
+vuestra camiseta festiva.</Text>
+        </value>
+      </EUes>
+      <EUfr type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Ça alors, j'y crois pas !
+Ils l'ont fait !!!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Le thème suprême, le choix
+ultime, l'heure de vérité...</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Bon, eh ben, je sens que
+ça va être vite plié !</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Insouciante, pétillante et
+décontract', votez AYO !</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Si vous faites ça, c'est la
+grosse tête assurée...</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Greeting</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Mauvaise idée ! Réfléchie,
+cool et posée, votez OLY !</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Pas la peine d'en dire plus,
+laissons les fans décider !</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Prête pour la dérouillée
+de ta vie, Oly ?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Ha ha ha, mais c'est qu'elle
+y croit, en plus !</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Nos fans vont voter Oly
+rien que pour te calmer...</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Sauf que les votes, ça fait
+pas tout, j'te signale !</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Faut aussi assurer sur le
+champ de bataille !</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">À vous, les amis ! Pensez
+bien à voter, surtout !</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Comme ça, vous recevrez
+votre t-shirt festif !</Text>
+        </value>
+      </EUfr>
+      <EUit type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">La domanda delle domande!
+Lo scontro decisivo!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Incredibile!!!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Tanto lo sapete che c'è
+una sola risposta possibile!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Allegra, spensierata...
+Votate per me, Stella!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Ragazzi, così si monterà
+la testa ancora di più...</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Greeting</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Scegliete me! Calma e
+tranquilla... Votate Marina!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Sapevo che questo giorno
+sarebbe arrivato.</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Mi spiace, ma la squadra
+di Stella... SPACCA!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Spacca? Ho sentito bene?
+Ma come parli?!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">ÁEproprio per questo che
+voteranno per me.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Beh, ottenere i voti è solo
+metà della battaglia!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">L'altra metà della battaglia
+è... beh, la battaglia!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">E VOI fan, cosa ne dite?
+Non dimenticate di votare!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Dopo il voto, riceverete
+una bella t-shirt festival!</Text>
+        </value>
+      </EUit>
+      <EUnl type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">They finally did it... The
+ultimate Splatfest theme!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Oh, it''s sooooo on!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Guys, you know there's
+only one real choice here.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Happy-go-lucky, carefree...
+Callie! That's me!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Guys, you don't want to
+swell her head any more!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Greeting</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Pick me! Cool, calm and
+collected - vote Marie!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">So it's finally come down
+to this.</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Sorry, but Team Callie are
+about to BRING THE PAIN!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">You'll 'bring the pain'? Did
+you seriously say that?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">This is why people are
+gonna vote Team Marie!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Well getting votes is only
+half the battle!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">The other half of the
+battle is...battling!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">So, who will it be?
+Be sure to cast your vote!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">After you've voted, you'll
+get a Splatfest Tee!</Text>
+        </value>
+      </EUnl>
+      <EUru type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">They finally did it... The
+ultimate Splatfest theme!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Oh, it''s sooooo on!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Guys, you know there's
+only one real choice here.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Happy-go-lucky, carefree...
+Callie! That's me!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Guys, you don't want to
+swell her head any more!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Greeting</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Pick me! Cool, calm and
+collected - vote Marie!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">So it's finally come down
+to this.</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Sorry, but Team Callie are
+about to BRING THE PAIN!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">You'll 'bring the pain'? Did
+you seriously say that?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">This is why people are
+gonna vote Team Marie!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Well getting votes is only
+half the battle!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">The other half of the
+battle is...battling!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">So, who will it be?
+Be sure to cast your vote!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">After you've voted, you'll
+get a Splatfest Tee!</Text>
+        </value>
+      </EUru>
+      <JPja type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">They finally did it... The
+ultimate Splatfest theme!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Oh, it''s sooooo on!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Guys, you know there's
+only one real choice here.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Happy-go-lucky, carefree...
+Callie! That's me!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Guys, you don't want to
+swell her head any more!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Greeting</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Pick me! Cool, calm and
+collected - vote Marie!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">So it's finally come down
+to this.</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Sorry, but Team Callie are
+about to BRING THE PAIN!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">You'll 'bring the pain'? Did
+you seriously say that?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">This is why people are
+gonna vote Team Marie!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Well getting votes is only
+half the battle!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">The other half of the
+battle is...battling!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">So, who will it be?
+Be sure to cast your vote!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">After you've voted, you'll
+get a Splatfest Tee!</Text>
+        </value>
+      </JPja>
+      <NewsType type="string">Announce</NewsType>
+      <USen type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">They finally did it... The
+ultimate Splatfest theme!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Oh, it''s sooooo on!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Guys, you know there's
+only one real choice here.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Happy-go-lucky, carefree...
+Callie! That's me!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Guys, you don't want to
+swell her head any more!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Greeting</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Pick me! Cool, calm and
+collected - vote Marie!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">So it's finally come down
+to this.</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Sorry, but Team Callie are
+about to BRING THE PAIN!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">You'll 'bring the pain'? Did
+you seriously say that?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">This is why people are
+gonna vote Team Marie!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Well getting votes is only
+half the battle!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">The other half of the
+battle is...battling!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">So, who will it be?
+Be sure to cast your vote!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">After you've voted, you'll
+get a Splatfest Tee!</Text>
+        </value>
+      </USen>
+      <USes type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Tenía que pasar... ¡Llega la
+madre de todos los temas!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">¿Madre...? Madre...
+¡Madre mía! ¿Va en serio?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Sí, pero no habrá discusión.
+La gente me adora a mí.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Mar: una chica espontánea
+y divertida. ¡Esa soy yo!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Creo que vas demasiado
+sobrada. ¡Me votarán a mí!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Greeting</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Calmada, seria y fiable.
+Así es vuestra amiga Tina.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Por fin el duelo que todos
+estábamos esperando.</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Ya es hora de demostrar
+que mi equipo es el mejor.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Espero que no lo estés
+diciendo en serio...</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">La gente con buen criterio
+me votará a mí, sin duda.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">De todas formas, ¡no solo
+cuentan los votos!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Lo más importante es...
+¡hacerlo bien en combate!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Ahora os toca uniros a uno
+de los dos bandos.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Elegid una opción y llevaos
+vuestra camiseta festiva.</Text>
+        </value>
+      </USes>
+      <USfr type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Ça alors, j'y crois pas !
+Ils l'ont fait !!!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">SurprisedA</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Le thème suprême, le choix
+ultime, l'heure de vérité...</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Bon, eh ben, je sens que
+ça va être vite plié !</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Insouciante, pétillante et
+décontract', votez AYO !</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Si vous faites ça, c'est la
+grosse tête assurée...</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Greeting</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Mauvaise idée ! Réfléchie,
+cool et posée, votez OLY !</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Pas la peine d'en dire plus,
+laissons les fans décider !</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Prête pour la dérouillée
+de ta vie, Oly ?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Ha ha ha, mais c'est qu'elle
+y croit, en plus !</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Nos fans vont voter Oly
+rien que pour te calmer...</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Sauf que les votes, ça fait
+pas tout, j'te signale !</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Faut aussi assurer sur le
+champ de bataille !</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">À vous, les amis ! Pensez
+bien à voter, surtout !</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Comme ça, vous recevrez
+votre t-shirt festif !</Text>
+        </value>
+      </USfr>
+    </value>
+    <value>
+      <EUde type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Aioli oder Limone?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Stimmt vor der Lobby am
+ Wahlstand ab!</Text>
+        </value>
+      </EUde>
+      <EUen type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Callie (yay!) or Marie
+(boo!)?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Vote in front of the Lobby 
+and get battling!</Text>
+        </value>
+      </EUen>
+      <EUes type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">¿Cuál de nosotras os cae
+ mejor? ¿Mar o Tina?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Podéis elegir equipo junto 
+a la entrada del vestíbulo.</Text>
+        </value>
+      </EUes>
+      <EUfr type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Alors, « Ayo-ouaaais »
+ ou « Oly-bouuuh » ?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Tous à l'urne festive ! Elle
+est au pied de la tour !</Text>
+        </value>
+      </EUfr>
+      <EUit type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Stella o Marina?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Votate davanti alla lobby
+e preparatevi alla lotta!</Text>
+        </value>
+      </EUit>
+      <EUnl type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Callie (yay!) or Marie
+(boo!)?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Vote in front of the Lobby 
+and get battling!</Text>
+        </value>
+      </EUnl>
+      <EUru type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Callie (yay!) or Marie
+(boo!)?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Vote in front of the Lobby 
+and get battling!</Text>
+        </value>
+      </EUru>
+      <JPja type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">シオカラーズ国民投票フェス、
+始まってるよー！</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">ロビー前から投票して、
+参加しよ～</Text>
+        </value>
+      </JPja>
+      <NewsType type="string">Start</NewsType>
+      <USen type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Callie (yay!) or Marie 
+(boo!)?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Vote in front of the Lobby 
+and get battling!</Text>
+        </value>
+      </USen>
+      <USes type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">¿Cuál de nosotras os cae
+ mejor? ¿Mar o Tina?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Podéis elegir equipo junto 
+a la entrada del vestíbulo.</Text>
+        </value>
+      </USes>
+      <USfr type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Alors, « Ayo-ouaaais » 
+ou « Oly-bouuuh » ?</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Tous à l'urne festive ! Elle
+est au pied de la tour !</Text>
+        </value>
+      </USfr>
+    </value>
+    <value>
+      <EUde type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Ätsch! Das beste Team hat
+gewonnen!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Immerhin bist du eine gute 
+Gewinnerin...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Ai-o-li, Ai-o-li, Ai-o-li! ♪</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Keine Angst, Limone-Fans!
+ Ich hab euch noch lieb!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Wie immer gilt: Preise
+abholen nicht vergessen!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Das war's von uns!</Text>
+        </value>
+      </EUde>
+      <EUen type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">YES! In your face! The 
+best team wins!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">At least you're a gracious 
+winner...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Cal-lie, Cal-lie, Cal-lie! ♪</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Don't worry, Marie fans! I
+ still love you all!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Anyway, don't forget to 
+grab your prizes as usual!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">That's it from us. Squid
+ Sisters out!</Text>
+        </value>
+      </EUen>
+      <EUes type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">No ha habido sorpresas.
+¡Yo gano y tú pierdes!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">No me lo restriegues...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">¿A quién hay que animar?
+¡Mar! ¡Mar! ¡Mar! ♪</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Gracias por vuestro apoyo
+ a pesar de la derrota...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">¡Recoged vuestros premios
+en la plaza, como siempre!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Y recibid un saludo de las 
+Calamarciñas. ¡Nos vemos!</Text>
+        </value>
+      </EUes>
+      <EUfr type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Et VLAN, dans les dents !
+ On vous a LA-MI-NÉS !!!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">T'as toujours la victoire
+ modeste, à ce que je vois !</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">La-mi-nés, la-mi-nés ! ♪</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Ça ne fait rien, l'équipe 
+Oly, vous êtes tous super !</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">En tout cas, avis à tous 
+les participants...</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">N'oubliez pas de récupérer 
+vos prix sur la place !</Text>
+        </value>
+      </EUfr>
+      <EUit type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Evviva! Ha vinto la
+migliore! Beccati questo!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Non sai vincere con classe, 
+tsk...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Stel-la! Stel-la! Stel-la! ♪</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Non preoccupatevi, miei
+cari fan... vi amo lo stesso!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">A proposito, in piazza vi
+ aspettano i vostri premi.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Continuate a fare il tifo 
+per noi, mi raccomando!</Text>
+        </value>
+      </EUit>
+      <EUnl type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">YES! In your face! The 
+best team wins!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">At least you're a gracious 
+winner...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Cal-lie, Cal-lie, Cal-lie! ♪</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Don't worry, Marie fans! I
+ still love you all!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Anyway, don't forget to 
+grab your prizes as usual!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">That's it from us. Squid
+ Sisters out!</Text>
+        </value>
+      </EUnl>
+      <EUru type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">YES! In your face! The 
+best team wins!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">At least you're a gracious 
+winner...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Cal-lie, Cal-lie, Cal-lie! ♪</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Don't worry, Marie fans! I
+ still love you all!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Anyway, don't forget to 
+grab your prizes as usual!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">That's it from us. Squid
+ Sisters out!</Text>
+        </value>
+      </EUru>
+      <JPja type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">アオリチーーーム！！</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">え～… 無いわ～～～……</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">アオリチームﾉみんな、
+ありがとー！！</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">ホタルチームﾓ
+がんばったんだけどな～</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">さて それでは、フェスﾆ参加した人ﾊ
+広場ﾃ スーパーサザエ もらってね！</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">これからも
+シオカラーズｦ応援よろ～</Text>
+        </value>
+      </JPja>
+      <NewsType type="string">ResultA</NewsType>
+      <USen type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">YES! In your face! The 
+best team wins!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">At least you're a gracious 
+winner...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Cal-lie, Cal-lie, Cal-lie! ♪</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Don't worry, Marie fans! I
+ still love you all!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Anyway, don't forget to 
+grab your prizes as usual!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">That's it from us. Squid
+ Sisters out!</Text>
+        </value>
+      </USen>
+      <USes type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">No ha habido sorpresas.
+¡Yo gano y tú pierdes!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">No me lo restriegues...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">¿A quién hay que animar?
+¡Mar! ¡Mar! ¡Mar! ♪</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Gracias por vuestro apoyo
+ a pesar de la derrota...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">¡Recoged vuestros premios
+en la plaza, como siempre!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Y recibid un saludo de las 
+Calamarciñas. ¡Nos vemos!</Text>
+        </value>
+      </USes>
+      <USfr type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Et VLAN, dans les dents !
+ On vous a LA-MI-NÉS !!!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Angry</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">T'as toujours la victoire
+ modeste, à ce que je vois !</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">La-mi-nés, la-mi-nés ! ♪</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Ça ne fait rien, l'équipe 
+Oly, vous êtes tous super !</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">En tout cas, avis à tous 
+les participants...</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">N'oubliez pas de récupérer 
+vos prix sur la place !</Text>
+        </value>
+      </USfr>
+    </value>
+    <value>
+      <EUde type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">War ja klar, dass Team
+ Limone sich den Sieg holt!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Bored</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Das kriege ich bis in alle
+ Ewigkeit zu hören, oder?</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Gut gemacht! Ihr seid 
+fantastische Fans!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Ich hab euch trotzdem lieb,
+Team Aioli!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Wie immer gilt: Preise
+abholen nicht vergessen!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Das war's von uns!</Text>
+        </value>
+      </EUde>
+      <EUen type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Gosh, Team Marie takes it
+ down! I knew we'd do it!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Bored</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">I'm never gonna hear the 
+last of this, am I?</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Great effort, my little Marie fans!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Don't worry, Team Callie! 
+I still love you all!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Anyway, don't forget to 
+grab your prizes as usual!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">That's it from us. Squid
+ Sisters out!</Text>
+        </value>
+      </EUen>
+      <EUes type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">¡Ostras! ¡Hemos ganado! 
+¡Mi equipo ha vencido!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Bored</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Bah, tampoco es para darle 
+tanta importancia, Tina...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Gracias por vuestro apoyo. 
+¡Estoy contentísima!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Tampoco voy a perder mi 
+optimismo solo por esto...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">¡Recoged vuestros premios
+ en la plaza, como siempre!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Y recibid un saludo de las
+ Calamarciñas. ¡Nos vemos!</Text>
+        </value>
+      </EUes>
+      <EUfr type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Je t'avais prévenue, Ayo !
+Tu étais trop sûre de toi !</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Bored</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Argh, c'est parti pour la
+leçon de morale...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Vous avez été sublimes,
+mes petits fans adorés !</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Vous aussi, l'équipe Ayo !
+Chapeau à tous !</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">En tout cas, avis à tous
+les participants...</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">N'oubliez pas de récupérer
+vos prix sur la place !</Text>
+        </value>
+      </EUfr>
+      <EUit type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Evviva, abbiamo vinto!
+Ne ero sicura!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Bored</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Te lo sentirò ripetere per
+mesi e mesi...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Ottimo lavoro, amici miei!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Non importa, cari fan.
+Vi voglio bene lo stesso!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">A proposito, in piazza vi
+aspettano i vostri premi.</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Continuate a fare il tifo
+per noi, mi raccomando!</Text>
+        </value>
+      </EUit>
+      <EUnl type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Gosh, Team Marie takes it
+ down! I knew we'd do it!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Bored</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">I'm never gonna hear the 
+last of this, am I?</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Great effort, my little Marie fans!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Don't worry, Team Callie! 
+I still love you all!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Anyway, don't forget to 
+grab your prizes as usual!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">That's it from us. Squid
+ Sisters out!</Text>
+        </value>
+      </EUnl>
+      <EUru type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Gosh, Team Marie takes it
+ down! I knew we'd do it!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Bored</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">I'm never gonna hear the 
+last of this, am I?</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Great effort, my little Marie fans!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Don't worry, Team Callie! 
+I still love you all!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Anyway, don't forget to 
+grab your prizes as usual!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">That's it from us. Squid
+ Sisters out!</Text>
+        </value>
+      </EUru>
+      <JPja type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Gosh, Team Marie takes it
+ down! I knew we'd do it!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Bored</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">I'm never gonna hear the 
+last of this, am I?</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Great effort, my little Marie fans!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Don't worry, Team Callie! 
+I still love you all!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Anyway, don't forget to 
+grab your prizes as usual!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">That's it from us. Squid
+ Sisters out!</Text>
+        </value>
+      </JPja>
+      <NewsType type="string">ResultB</NewsType>
+      <USen type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Gosh, Team Marie takes it
+ down! I knew we'd do it!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Bored</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">I'm never gonna hear the 
+last of this, am I?</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Great effort, my little Marie fans!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Don't worry, Team Callie! 
+I still love you all!</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Anyway, don't forget to 
+grab your prizes as usual!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">That's it from us. Squid
+ Sisters out!</Text>
+        </value>
+      </USen>
+      <USes type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">¡Ostras! ¡Hemos ganado! 
+¡Mi equipo ha vencido!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Bored</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Bah, tampoco es para darle 
+tanta importancia, Tina...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Gracias por vuestro apoyo. 
+¡Estoy contentísima!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Tampoco voy a perder mi 
+optimismo solo por esto...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">¡Recoged vuestros premios
+ en la plaza, como siempre!</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Y recibid un saludo de las
+ Calamarciñas. ¡Nos vemos!</Text>
+        </value>
+      </USes>
+      <USfr type="array">
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Happy</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Je t'avais prévenue, Ayo !
+Tu étais trop sûre de toi !</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Bored</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Argh, c'est parti pour la
+leçon de morale...</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">Vous avez été sublimes,
+mes petits fans adorés !</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">Vous aussi, l'équipe Ayo !
+Chapeau à tous !</Text>
+        </value>
+        <value WaitButton="false">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Left</Speaker>
+          <Text type="string">En tout cas, avis à tous
+les participants...</Text>
+        </value>
+        <value WaitButton="true">
+          <CameraType type="string">Normal</CameraType>
+          <Command type="string">Speak</Command>
+          <Emotion type="string">Talk</Emotion>
+          <Speaker type="string">Right</Speaker>
+          <Text type="string">N'oubliez pas de récupérer
+vos prix sur la place !</Text>
+        </value>
+      </USfr>
+    </value>
+  </News>
+  <RegionAttr EU="0" JP="0" US="0" />
+  <Rule type="string">cPnt</Rule>
+  <SpecialType type="string">SEL</SpecialType>
+  <Teams type="array">
+    <value>
+      <Color type="array">
+        <value>0.61f</value>
+        <value>0.04f</value>
+        <value>0.57f</value>
+        <value>1</value>
+      </Color>
+      <Name>
+        <EUde type="string">Ich kämpfe für AIOLI</EUde>
+        <EUen type="string">I'm team CALLIE</EUen>
+        <EUes type="string">Me cae mejor Mar</EUes>
+        <EUfr type="string">Je préfère AYO !</EUfr>
+        <EUit type="string">ÁEpiù simpatica STELLA</EUit>
+        <EUnl type="string">I'm team CALLIE</EUnl>
+        <EUru type="string">I'm team CALLIE</EUru>
+        <JPja type="string">シオカラーズ国民投票�E�E「アオリ、E</JPja>
+        <USen type="string">I'm team CALLIE</USen>
+        <USes type="string">I'm team CALLIE</USes>
+        <USfr type="string">I'm team CALLIE</USfr>
+      </Name>
+      <ShortName>
+        <EUde type="string">Aioli</EUde>
+        <EUen type="string">Callie</EUen>
+        <EUes type="string">Mar</EUes>
+        <EUfr type="string">Ayo</EUfr>
+        <EUit type="string">Stella</EUit>
+        <EUnl type="string">SQUID SISTERS</EUnl>
+        <EUru type="string">SQUID SISTERS</EUru>
+        <JPja type="string">アオリ</JPja>
+        <USen type="string">Callie</USen>
+        <USes type="string">Callie</USes>
+        <USfr type="string">Callie</USfr>
+      </ShortName>
+    </value>
+    <value>
+      <Color type="array">
+        <value>0.37f</value>
+        <value>0.75f</value>
+        <value>0f</value>
+        <value>1</value>
+      </Color>
+      <Name>
+        <EUde type="string">Ich kämpfe für LIMONE.</EUde>
+        <EUen type="string">I'm team MARIE</EUen>
+        <EUes type="string">Me cae mejor Tina</EUes>
+        <EUfr type="string">Je préfère OLY !</EUfr>
+        <EUit type="string">ÁEpiù simpatica MARINA</EUit>
+        <EUnl type="string">I'm team MARIE</EUnl>
+        <EUru type="string">I'm team MARIE</EUru>
+        <JPja type="string">シオカラーズ国民投票�E�E「�Eタル、E</JPja>
+        <USen type="string">I'm team MARIE</USen>
+        <USes type="string">I'm team MARIE</USes>
+        <USfr type="string">I'm team MARIE</USfr>
+      </Name>
+      <ShortName>
+        <EUde type="string">Limone</EUde>
+        <EUen type="string">Marie</EUen>
+        <EUes type="string">Tina</EUes>
+        <EUfr type="string">Oly</EUfr>
+        <EUit type="string">Marina</EUit>
+        <EUnl type="string">Marie</EUnl>
+        <EUru type="string">Marie</EUru>
+        <JPja type="string">ホタル</JPja>
+        <USen type="string">Marie</USen>
+        <USes type="string">Marie</USes>
+        <USfr type="string">Marie</USfr>
+      </ShortName>
+    </value>
+    <value>
+      <Color type="array">
+        <value>1f</value>
+        <value>0.77f</value>
+        <value>0.03f</value>
+        <value>1</value>
+      </Color>
+    </value>
+  </Teams>
+  <Time>
+    <Announce type="string">2020-11-13T12:00:00-05:00</Announce>
+    <End type="string">2025-11-30T19:00:00-05:00</End>
+    <Result type="string">2025-11-30T21:00:00-05:00</Result>
+    <Start type="string">2020-11-14T23:00:00-05:00</Start>
+  </Time>
+  <WeightMatchRequirements>
+    <WeightHundredMatch count="-1" point="0" yellow="1" />
+    <WeightTenMatch count="-1" point="5" yellow="-1" />
+  </WeightMatchRequirements>
+  <cPnt HighRate1="2000" HighRate2="2300" LowRate="1400" ShrinkRatio="0.3f" />
+</yaml>
